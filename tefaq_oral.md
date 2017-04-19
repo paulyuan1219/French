@@ -1,6 +1,3 @@
-Saluer: 
-Bonjour. Ca va.
-
 Presenter: 
 Récemment, j'ai rejoint un groupe de danse et nous tiendrons une activité au centre de manger ce dimanche après-midi. 
 
@@ -20,11 +17,8 @@ La plupart des membres du groupe ne sont pas expérimentés. La danse sera soign
 
 Danser dans notre groupe n'est pas difficile du tout. Nous avons les meilleurs enseignants qui vous aiderons à maîtriser la danse rapidement.
 
-
-
 3. no time/ don't want to move
 Il ne coûte pas de temps. Nous ne pratiquons que trois fois avant dimanche; Chaque fois n'est qu'une heure. Le dimanche, l'activité est seulement d'environ 5 minutes. Je sais que vous passez plusieurs heures avant la télévision tous les jours. Sortez et pratiquez. C'est bon pour votre santé.
-
 Tu pourrais sortir davantage. 
 
 4. type de danser
@@ -32,13 +26,6 @@ Ce sera passionnant. Au début, les membres du groupe se comportent comme des cl
 
 Ce sera une danse moderne simplifiée. Cette danse a été réalisée dans d'autres endroits et a reçu des millions de compliments. Nos enseignants apporteront également des modifications pour intégrer le style local du Québec. Cela vous inspirera certainement.
 
-
 Conclusion:
 Oui=>Je suis content que tu aies accepte de participer avec moi
-
 Non=>Quand meme, tu pourrais changer d'avis.
-
-
-
-
-
